@@ -26,7 +26,7 @@ terminé
 ## Projet déployé: 
 Lien Github : https://github.com/RekhaLambotte/animations-drill.git
 
-Lien web: 
+Lien web: https://rekhalambotte.github.io/animations-drill/.
 
 ## Remarques:
 
